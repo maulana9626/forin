@@ -1,0 +1,14 @@
+
+#EXTM3U
+#EXT-X-TARGETDURATION:5
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:102227
+#EXT-X-PROGRAM-DATE-TIME:2025-01-01T11:56:41.996Z
+#EXTINF:5.000,
+https://live.mana2.my/Tv1/tracks-v3a1/2025/01/01/11/56/41-05000.ts
+#EXTINF:5.000,
+https://live.mana2.my/Tv1/tracks-v3a1/2025/01/01/11/56/46-05000.ts
+#EXTINF:5.000,
+https://live.mana2.my/Tv1/tracks-v3a1/2025/01/01/11/56/51-05000.ts
+#EXTINF:5.000,
+https://live.mana2.my/Tv1/tracks-v3a1/2025/01/01/11/56/56-05000.ts

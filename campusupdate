@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:7
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:60
+#EXT-X-MAP:URI="ch96-init.mp4"
+#EXTINF:1.666667,
+https://flv.intechmedia.net/live/ch96-60.m4s
+#EXTINF:0.833333,
+https://flv.intechmedia.net/live/ch96-61.m4s
+#EXTINF:0.833333,
+https://flv.intechmedia.net/live/ch96-62.m4s
+#EXTINF:0.833333,
+https://flv.intechmedia.net/live/ch96-63.m4s
+#EXTINF:0.833333,
+https://flv.intechmedia.net/live/ch96-64.m4s
+#EXTINF:1.666667,
+https://flv.intechmedia.net/live/ch96-65.m4s
